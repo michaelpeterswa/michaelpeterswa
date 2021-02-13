@@ -10,7 +10,7 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 
 ---
 
-[![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpeterswa)](https://github.com/anuraghazra/github-readme-stats)
+[![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpeterswa&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
