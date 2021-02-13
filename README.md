@@ -1,7 +1,7 @@
 ---
  
 <p>
-  <img width="400" align='right' src="img/title.gif">
+  <img width="350" align='right' src="img/title.gif">
 </p>
  
 ### 🌲 what's up 🌲
