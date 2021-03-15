@@ -18,6 +18,7 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 ### tasks
 - [ ] learn svelte/create project using svelte
 - [ ] utilize LoRa transmission protocol
-- [ ] more hardware projects (esp8266 or RPi)
+- [x] more hardware projects (esp8266 or RPi)
 - [ ] amateur radio digital modes
+- [x] I-90 Trailheads swift app 
 - [ ] dart app (for XC-Skiing conditions)
