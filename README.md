@@ -21,5 +21,6 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 - [ ] utilize LoRa transmission protocol
 - [x] more hardware projects (esp8266 or RPi)
 - [ ] amateur radio digital modes
+- [x] Open Source Location Tracking server/iOS app
 - [x] I-90 Trailheads swift app 
 - [ ] dart app (for XC-Skiing conditions)
