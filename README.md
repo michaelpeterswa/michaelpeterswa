@@ -17,6 +17,7 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 
 ### tasks
 - [ ] learn svelte/create project using svelte
+- [ ] private, selfhosted, encrypted iOS messaging app
 - [x] learn gatsby/create project using gatsby
 - [x] self-hosted location tracker (JS backend and iOS frontend) 
 - [ ] utilize LoRa transmission protocol
