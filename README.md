@@ -16,7 +16,7 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 ---
 
 ### tasks
-- [ ] learn svelte/create project using svelte
+- [x] learn svelte/create project using svelte
 - [ ] private, selfhosted, encrypted iOS messaging app
 - [x] learn gatsby/create project using gatsby
 - [x] self-hosted location tracker (JS backend and iOS frontend) 
@@ -26,3 +26,4 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 - [x] Open Source Location Tracking server/iOS app
 - [x] I-90 Trailheads swift app 
 - [ ] dart app (for XC-Skiing conditions)
+- [ ] service discovery platform
