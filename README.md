@@ -10,8 +10,11 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 
 ---
 
-[![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpeterswa&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpeterswa&hide=jupyter%20notebook&layout=compact&theme=calm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/entities/michaelpeterswa/contributions?format=svg" width="350" />
+    </a>
+</p>
 
 ---
 
