@@ -12,7 +12,10 @@ I hear emoji's are all the rage now, so here is one of my favorites, a 🏔️ (
 
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/entities/michaelpeterswa/contributions?format=svg&private=true" width="500" />
+        <img src="https://api.vaunt.dev/v1/github/entities/michaelpeterswa/contributions?format=svg&private=true" width="500" />
+    </a>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/michaelpeterswa/achievements?format=svg&limit=3" width="500" />
     </a>
 </p>
 
